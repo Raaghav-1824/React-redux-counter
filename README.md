@@ -18,7 +18,7 @@ These instructions will get you a copy of the project up and running on your loc
 ### Installing
 
 ```
-git clone  https://github.com/peckpeck20/react-redux-counter-example.git
+https://github.com/Raaghav-1824/React-redux-counter.git
 ```
 
 ```
