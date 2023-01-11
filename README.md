@@ -37,8 +37,10 @@ npm run
 
 ## Dependencies 
 
-    "react": "^16.3.2",
-    "react-dom": "^16.3.2",
-    "react-redux": "^5.0.7",
-    "react-scripts": "1.1.4",
-    "redux": "^4.0.0"
+  
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-redux": "8.0.4",
+    "react-scripts": "4.0.0",
+    "redux": "4.2.0"
+
